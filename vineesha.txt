@@ -4,3 +4,5 @@ this is new line
 line fron remote 
 pull demo in loca
 pull demo in remote
+undo local commit changes
+revert concept
