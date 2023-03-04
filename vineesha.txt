@@ -2,4 +2,4 @@ Git is fast version control system
 git is most used tool 
 this is new line 
 line fron remote 
-pull demo in remote
+pull demo in local
